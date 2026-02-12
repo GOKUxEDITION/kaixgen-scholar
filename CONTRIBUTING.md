@@ -27,6 +27,6 @@ Click the "Fork" button on GitHub.
 ### 2️⃣ Clone Your Fork
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/kaixgen-scholar.git
+git clone https://github.com/GOKUxEDITION/kaixgen-scholar
 cd kaixgen-scholar
 ```
