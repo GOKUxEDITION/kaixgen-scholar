@@ -44,39 +44,3 @@ kaixgen-scholar/ │ ├── main.py            # Entry point ├── ai_eng
 git clone https://github.com/GOKUxEDITION/kaixgen-scholar.git
 cd kaixgen-scholar
 
-Create Virtual Environment (Recommended)
-python -m venv venv
-source venv/bin/activate   # Linux / Termux
-venv\Scripts\activate      # Windows
-
-Install Dependencies
-pip install -r requirements.txt
-
-▶️ Run Project
-python main.py
-
-🧩 Architecture Flow
-User Input
-   ↓
-main.py
-   ↓
-ai_engine.py
-   ↓
-database.py
-   ↓
-Response Output
-
-
-KAIxGen • DevCore AI ⚡
-Premium AI Systems for the Next Generation.
----
-
-Agar tu chahe to next level version bana sakte hain:
-
-- Custom dark banner image
-- Animated demo GIF
-- Star history graph
-- SECURITY.md
-- Contribution guide
-- Professional GitHub profile linking
-
