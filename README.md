@@ -43,7 +43,8 @@ kaixgen-scholar/ │ ├── main.py            # Entry point ├── ai_eng
 ```bash
 git clone https://github.com/GOKUxEDITION/kaixgen-scholar.git
 cd kaixgen-scholar
-
+```
+## ⚙️ Installation
 Create Virtual Environment (Recommended)
 python -m venv venv
 source venv/bin/activate   # Linux / Termux
