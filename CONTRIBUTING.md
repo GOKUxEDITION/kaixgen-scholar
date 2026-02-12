@@ -28,5 +28,7 @@ Click the "Fork" button on GitHub.
 
 ```bash
 git clone https://github.com/GOKUxEDITION/kaixgen-scholar
+```
+```
 cd kaixgen-scholar
 ```
