@@ -53,4 +53,6 @@ Built with clean Python architecture for expansion into:
 ### 1️⃣ Build Image
 
 ```bash
-docker build -t kaixgen-scholar .
+docker build -t kaixgen-scholar
+```
+<img src="https://img.shields.io/badge/Security-Policy-blue?style=for-the-badge"/>
