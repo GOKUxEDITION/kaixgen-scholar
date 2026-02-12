@@ -33,7 +33,7 @@ Built with clean Python architecture for expansion into:
 ---
 
 # 🚀 Deployment
-
+📘 Full Deployment Guide → [View Here](DEPLOYMENT.md)
 ## 🌐 Live Deployment
 
 <p align="center">
