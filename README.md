@@ -1,4 +1,3 @@
-# kaixgen-scholar
 <h1 align="center">🚀 KAIxGen Scholar</h1>
 
 <p align="center">
@@ -19,25 +18,21 @@ Minimal • Scalable • Future-Ready
 
 **KAIxGen Scholar** is an AI-driven academic intelligence system designed to:
 
-- 📚 Process scholarly data
-- 🤖 Integrate AI-based logic
-- 🗄️ Manage structured database workflows
-- ⚡ Provide scalable modular architecture
+- 📚 Process scholarly data  
+- 🤖 Integrate AI-based logic  
+- 🗄️ Manage structured database workflows  
+- ⚡ Provide scalable modular architecture  
 
 Built with clean Python architecture for expansion into:
-- Telegram Bot
-- Web App
-- AI SaaS Platform
-- Educational Automation System
 
----
+- Telegram Bot  
+- Web App  
+- AI SaaS Platform  
+- Educational Automation System  
 
-## 📂 Deploy Badge
 ---
 
 # 🚀 Deployment
-
-KAIxGen Scholar can be deployed on multiple platforms.
 
 ## 🌐 Live Deployment
 
@@ -53,68 +48,9 @@ KAIxGen Scholar can be deployed on multiple platforms.
 
 ---
 
-## 🖥 Deploy on Render (Recommended)
+## 🐳 Docker Deployment
 
-### 1️⃣ Create Render Account  
-Go to https://render.com
-
-### 2️⃣ New Web Service  
-- Click **New +**
-- Select **Web Service**
-- Connect your GitHub repository
-- Choose `kaixgen-scholar`
-
-### 3️⃣ Configure Settings
-
-- Runtime: Python 3
-- Build Command:
-- 
-## ⚙️ Installation
-
-### 1️⃣ Clone Repository
+### 1️⃣ Build Image
 
 ```bash
-git clone https://github.com/GOKUxEDITION/kaixgen-scholar.git
-cd kaixgen-scholar
-```
-## ⚙️ Installation
-Create Virtual Environment (Recommended)
-python -m venv venv
-source venv/bin/activate   # Linux / Termux
-venv\Scripts\activate      # Windows
-
-Install Dependencies
-pip install -r requirements.txt
-
-▶️ Run Project
-python main.py
-
-🧩 Architecture Flow
-User Input
-   ↓
-main.py
-   ↓
-ai_engine.py
-   ↓
-database.py
-   ↓
-Response Output
-
-
-KAIxGen • DevCore AI ⚡
-Premium AI Systems for the Next Generation.
----
-
----
-
-## 👨‍💻 Developer
-
-<p align="center">
-  <a href="https://github.com/GOKUxEDITION">
-    <img src="https://img.shields.io/badge/GitHub-GOKUxEDITION-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
-### 🌌 Built by GOKUxEDITION
-AI + Telegram Automation Specialist  
-Building Premium AI Systems ⚡
+docker build -t kaixgen-scholar .
