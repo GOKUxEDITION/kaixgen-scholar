@@ -32,10 +32,26 @@ Built with clean Python architecture for expansion into:
 
 ---
 
-## 📂 Project Structure
-kaixgen-scholar/ │ ├── main.py            # Entry point ├── ai_engine.py       # AI processing logic ├── database.py        # Database layer ├── config.py          # Configuration settings ├── requirements.txt   # Dependencies ├── LICENSE └── README.md
+## 📂 Deploy Badge
+<p align="center">
+  <a href="https://kaixgen-scholar.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20Deploy-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  </a>
+</p>        
 ---
-
+<p align="center">
+  <a href="https://your-app-name.up.railway.app">
+    <img src="https://img.shields.io/badge/Live%20Deploy-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  </a>
+</p>
+---
+<p align="center">
+  <a href="https://your-app-name.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+---
+<img src="https://img.shields.io/website?style=for-the-badge&url=https://your-app-name.onrender.com"/>
 ## ⚙️ Installation
 
 ### 1️⃣ Clone Repository
